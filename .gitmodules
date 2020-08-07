@@ -1,0 +1,3 @@
+[submodule "airpc"]
+	path = airpc
+	url = https://github.com/AirPC/airpc
